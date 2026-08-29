@@ -10,7 +10,7 @@
   ],
   "servers": [
     {
-      "url": "http://{server}/api/v2/",
+      "url": "https://api.paxscan.io/api/v2/",
       "variables": {
         "server": {
           "default": "blockscout.com/poa/core"
